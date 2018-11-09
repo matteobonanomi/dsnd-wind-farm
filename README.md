@@ -38,7 +38,7 @@ Open the notebook **wind_turbine.ipynb** contained in the repo. Run it cell by c
 
 ## Built With
 
-* [Python] (https://www.python.org/) - Pythn programming language
+* [Python](https://www.python.org/) - Python programming language
 * [Jupyter](http://www.dropwizard.io/1.0.2/docs/) - iPython Notebook
 * [Brackets](https://maven.apache.org/) - My favourite text editor
 
