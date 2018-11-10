@@ -1,1 +1,7 @@
+# this folder contains data from ENGIE Renewable Energy Open Wind Farm website
+# Downloaded as a CSV, this file be reach 1GB if contains all the historical data for each WTG
+# For this reason, it has been excluded from the repo
 data/
+# iPython checkpoints are not included in the repo since only the last and stable version of the notebook is uploaded to GitHub
+# checkpoints are used only for testing and development purposes
+.ipynb_checkpoints/
